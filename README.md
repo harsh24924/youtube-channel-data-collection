@@ -5,6 +5,7 @@ This tool allows you to collect metadata about all videos from a specified YouTu
 ## Setup
 
 Before running the script, you'll need to obtain an API key from [Google Cloud Console](https://console.cloud.google.com/).
+Make sure that YouTube Data API v3 is enabled for that key.
 Add it to a `.env` file in the same directory as the `main.py` script.
 
 ## Installation
