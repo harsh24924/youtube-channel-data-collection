@@ -10,8 +10,8 @@ Before running the script, you'll need to obtain an API key from [Google Cloud C
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/harsh24924/youtube-channel-data-collection.git
+    cd youtube-channel-data-collection
     ```
 
 2. **Install dependencies:**
