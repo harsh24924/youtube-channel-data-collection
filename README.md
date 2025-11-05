@@ -27,7 +27,10 @@ Add it to a `.env` file in the same directory as the `main.py` script.
     python3 main.py
     ```
 
-2. **Enter the YouTube channel ID.**
+2. **Enter the YouTube channel ID. Example:**
+    ```bash
+    Enter channel ID: UCNIuvl7V8zACPpTmmNIqP2A
+    ```
 
 ## Output
 
