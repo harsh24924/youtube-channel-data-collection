@@ -1,0 +1,3 @@
+pandas
+pyarrow
+google-api-python-client
