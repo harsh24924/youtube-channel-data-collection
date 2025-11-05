@@ -32,8 +32,5 @@ Before running the script, you'll need to obtain an API key from [Google Cloud C
 
 ## Output
 
-Once the script finishes execution, the collected video data will be saved to:
-
-`data.parquet`
-
+Once the script finishes execution, the collected video data will be saved to `data.parquet`.
 This file will be located in the same directory where you ran the `main.py` script.
